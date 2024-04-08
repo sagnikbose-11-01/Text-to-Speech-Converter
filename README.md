@@ -17,13 +17,13 @@ You can try out the live demo of the project [here](#).
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/text-to-speech-converter.git
+https://github.com/sagnikbose-11-01/Text-to-Speech-Converter.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd text-to-speech-converter
+cd Text-to-Speech-Converter
 ```
 
 3. Open the `index.html` file in your web browser.
