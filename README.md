@@ -17,7 +17,7 @@ You can try out the live demo of the project [here](https://sagnikbose-11-01.git
 1. Clone the repository to your local machine:
 
 ```bash
-https://github.com/sagnikbose-11-01/Text-to-Speech-Converter.git
+git clone https://github.com/sagnikbose-11-01/Text-to-Speech-Converter.git
 ```
 
 2. Navigate to the project directory:
