@@ -10,7 +10,7 @@ Convert text to speech with ease! This simple web application allows users to en
 
 ## Demo
 
-You can try out the live demo of the project [here](https://sagnikbose-11-01.github.io/Text-to-Speech-Converter/).
+You can try out the live demo of the project [here](https://text-to-speech-converter-sagnikbose-11-01s-projects.vercel.app/).
 
 ## How to Use
 
